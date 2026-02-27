@@ -1,9 +1,6 @@
 ---
-
-title: Mermaids Commands
-
-layout: page
-
+title: Commands
+parent: Mermaids
 ---
 
 

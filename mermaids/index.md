@@ -1,5 +1,5 @@
 ---
-title: Mermaids Mod
+title: Mermaids
 layout: page
 ---
 

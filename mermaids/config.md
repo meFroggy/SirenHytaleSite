@@ -1,9 +1,6 @@
 ---
-
-title: Mermaids Config
-
-layout: page
-
+title: Config
+parent: Mermaids
 ---
 
 

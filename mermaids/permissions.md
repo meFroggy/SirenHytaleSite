@@ -1,9 +1,6 @@
 ---
-
-title: Mermaids Permissions
-
-layout: page
-
+title: Permissions
+parent: Mermaids
 ---
 
 

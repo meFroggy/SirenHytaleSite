@@ -14,8 +14,8 @@ My Official Released Mods
   - [Siren's Commands Docs]
  
 [Mermaids]: https://www.curseforge.com/hytale/mods/mermaids
-[Mermaids Docs]: https://mefroggy.github.io/SirenHytaleSite/mermaids.html
+[Mermaids Docs]: https://mefroggy.github.io/SirenHytaleSite/mermaids
 [Marriage]: https://www.curseforge.com/hytale/mods/marriage
-[Marriage Docs]: https://mefroggy.github.io/SirenHytaleSite/marriage.html
+[Marriage Docs]: https://mefroggy.github.io/SirenHytaleSite/marriage
 [Siren's Commands]: https://www.curseforge.com/hytale/mods/sirenscommands
-[Siren's Commands Docs]: https://mefroggy.github.io/SirenHytaleSite/sirenscommands.html
+[Siren's Commands Docs]: https://mefroggy.github.io/SirenHytaleSite/sirenscommands
