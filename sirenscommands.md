@@ -5,6 +5,10 @@ layout: page
 
 Welcome to the Official [Siren's Commands](https://www.curseforge.com/hytale/mods/sirenscommands) Mod Wiki!
 
+Siren's Commands adds multiple useful commands to your server. This is more of a personal plugin with commands I use to simplify my experience using Hytale.
+
+
+
 Commands:
 - /sirenscommands, /scmds : to view all commands on the server
 - /list, /players : See who is connected to the server

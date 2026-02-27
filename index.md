@@ -6,10 +6,12 @@ layout: home
 Welcome to the Official website of Siren's Hytale mods!
 
 My Official Released Mods
-- [Mermaids]
-  - [Mermaids Docs]
+- [Chinese Festivals]
+  - [Chinese Festivals Docs]
 - [Marriage]
   - [Marriage Docs]
+- [Mermaids]
+  - [Mermaids Docs]
 - [Siren's Commands]
   - [Siren's Commands Docs]
 
@@ -22,3 +24,5 @@ My Official Released Mods
 [Marriage Docs]: /marriage/
 [Siren's Commands]: https://www.curseforge.com/hytale/mods/sirenscommands
 [Siren's Commands Docs]: /sirenscommands.html
+[Chinese Festivals]: https://www.curseforge.com/hytale/mods/chinesefestivals
+[Chinese Festivals Docs]: /chinesefestivals.html
