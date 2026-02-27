@@ -1,6 +1,7 @@
 ---
 title: Permissions
 parent: Mermaids
+layout: page
 ---
 
 
@@ -59,7 +60,7 @@ Permissions:
 
 \- mermaids.admin.mermaidglow
 
-&nbsp; - Access to use /mermaids admin mermaidglow true|false, which toggles the mermaid model glow.
+  - Access to use /mermaids admin mermaidglow true|false, which toggles the mermaid model glow.
 
-&nbsp; - Access to use /mermaids admin mermaidglowraduis {int}, that sets the radius of the mermaid glow.
+  - Access to use /mermaids admin mermaidglowraduis {int}, that sets the radius of the mermaid glow.
 

@@ -1,5 +1,5 @@
 ---
-title: Siren's Commands Mod
+title: Siren's Commands
 layout: page
 ---
 

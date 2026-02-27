@@ -1,6 +1,7 @@
 ---
 title: Config
 parent: Mermaids
+layout: page
 ---
 
 
@@ -19,27 +20,27 @@ This is the default config values and descriptions for config version 6
 
 \- "ConfigVersion"
 
-&nbsp; - Default Value: 6
+  - Default Value: 6
 
-&nbsp; - Description: Config Version when you first load the plugin.
+  - Description: Config Version when you first load the plugin.
 
 \- "PluginName"
 
-&nbsp; - Default Value: "Mermaids"
+  - Default Value: "Mermaids"
 
-&nbsp; - Description: Plugin name.
+  - Description: Plugin name.
 
 \- "Version"
 
-&nbsp; - Default Value: "1.3.3"
+  - Default Value: "1.3.3"
 
-&nbsp; - Description: Plugin Verison when you first load the plugin.
+  - Description: Plugin Verison when you first load the plugin.
 
 \- "Website"
 
-&nbsp; - Default Value: "https://www.curseforge.com/hytale/mods/mermaids"
+  - Default Value: "https://www.curseforge.com/hytale/mods/mermaids"
 
-&nbsp; - Description: A link to the plugin's download page and informatiton.
+  - Description: A link to the plugin's download page and informatiton.
 
 \- "Transformation-Mode"
 
