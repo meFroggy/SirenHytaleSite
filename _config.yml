@@ -1,12 +1,13 @@
-title: Siren's Hytale Mods Docs
-description: Docs for Sirens Hytale Mods!
+title: Siren's Docs
+description: Docs for Siren's Hytale Mods!
 theme: just-the-docs
 
-url: https://mefroggy.github.io/sirenhytale
+url: http://www.mermaids.dev/site
 
 aux_links:
   Mermaids Mod: https://www.curseforge.com/hytale/mods/mermaids
   Marriage Mod: https://www.curseforge.com/hytale/mods/marriage
+  Discord: https://discord.gg/ZFT3C9aKjZ
 
 aux_links_new_tab: true
 
