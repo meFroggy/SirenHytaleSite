@@ -11,3 +11,6 @@ aux_links:
 aux_links_new_tab: true
 
 color_scheme: dark
+
+logo: "/assets/images/siren-logo.png"
+favicon_ico: "/assets/images/siren-logo.ico"
