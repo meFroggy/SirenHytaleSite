@@ -5,7 +5,7 @@ layout: page
 ---
 
 Mermaid Swimming with Different Tail Colors [Final WIP]:
-![Mermaids_UI_Testing_Video](https://www.youtube.com/embed/SBG9TTS_y8k)
+![Mermaids_UI_Testing_Video](https://youtu.be/SBG9TTS_y8k)
 <span style="color: rgb(194, 224, 244);"><iframe src="https://www.youtube.com/embed/SBG9TTS_y8k" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></span>
 Basic use of the Mermaids plugin using the ui.
 
