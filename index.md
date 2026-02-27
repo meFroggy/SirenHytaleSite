@@ -17,8 +17,8 @@ My Official Released Mods
 <span style="color: #c2e0f4;"><img src="https://api.hstats.dev/api/embed/650607f7-6c8a-4d52-ab81-f8ca3a9e9db2/card.svg?theme=dark&amp;layout=history&amp;size=lg&amp;show_id=true&amp;dark=false" alt="HStats Mermaids Mod with History" width="920" height="340"></span>
  
 [Mermaids]: https://www.curseforge.com/hytale/mods/mermaids
-[Mermaids Docs]: https://mefroggy.github.io/SirenHytaleSite/mermaids
+[Mermaids Docs]: /mermaids/
 [Marriage]: https://www.curseforge.com/hytale/mods/marriage
-[Marriage Docs]: https://mefroggy.github.io/SirenHytaleSite/marriage
+[Marriage Docs]: /marriage/
 [Siren's Commands]: https://www.curseforge.com/hytale/mods/sirenscommands
-[Siren's Commands Docs]: https://mefroggy.github.io/SirenHytaleSite/sirenscommands
+[Siren's Commands Docs]: /sirenscommands/
