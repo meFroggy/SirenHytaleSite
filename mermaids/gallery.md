@@ -4,11 +4,6 @@ parent: Mermaids
 layout: page
 ---
 
-Mermaid Swimming with Different Tail Colors [Final WIP]:
-![Mermaids_UI_Testing_Video](https://youtu.be/SBG9TTS_y8k)
-<span style="color: rgb(194, 224, 244);"><iframe src="https://www.youtube.com/embed/SBG9TTS_y8k" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></span>
-Basic use of the Mermaids plugin using the ui.
-
 Upcoming Tail Model Sneak Peak with Whale:
 ![MermaidV2_Tail_Model_SneakPeak_Whale_Img](/assets/images/gallery/mermaids/Mermaidv2-TailModel-SneakPeak4.png "MermaidV2 Sneak Peak Whale Img")
 A sneak peak of the upcoming tail model that I've been working on near a whale.
@@ -24,14 +19,6 @@ A sneak peak of the tail model I've been working on (3).
 Sneak Peak (2) of Mermaid model v2:
 ![MermaidV2_Tail_Model_SneakPeak_2_Img](/assets/images/gallery/mermaids/Mermaidv2-TailModel-SneakPeak2.png "MermaidV2 Sneak Peak 2 Img")
 A sneak peak of the tail model I've been working on (2).
-
-Mermaid Rain Transformation [Final WIP]:
-<span style="color: rgb(194, 224, 244);"><iframe src="https://www.youtube.com/embed/UP7n4g5aA6Y" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></span>
-Showing off how the Mermaid can transform in rain. On land animations are WIP.
-
-Mermaid Model v2 Swim Animation Preview:
-<span style="color: rgb(194, 224, 244);"><iframe src="https://www.youtube.com/embed/K6TZr745wdc" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></span>
-Showing off the new swim animation that I have got for the Mermaid Model v2.
 
 Mermaid sleeping after long day of work:
 ![Fresh_Mermaid_Sleep_Img](/assets/images/gallery/mermaids/fresh_mermaids1.png "Mermaid Sleep Fresh Img")
