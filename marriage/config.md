@@ -8,7 +8,7 @@ Last updated for v1.2.0, which at the time of writing this, that version hasn't 
 
 | Config Name: | Default Value: | Description: |
 |:---|:---|:---|
-| "Config-Information" | "Confused about what one of these statement do? Check out the Marriage page on the Curseforge website or https://mermaids.dev/marriage/config.html and scroll down to Config Extra Info." | Information about how to find stuff related to the config |
+| "Config-Information" | A long string that tells you to come to this site. | Information about how to find stuff related to the config |
 | "ConfigVersion" | 2 | Current Version when you have loaded for the plugin. |
 | "PluginName" | "Marriage" | Plugin name. |
 | "Version" | "1.2.0" | Version of the last ran mod jar. |
