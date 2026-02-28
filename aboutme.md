@@ -1,5 +1,6 @@
 ---
 title: About Me
+description: About Siren, the creator of the Hytale mods--Mermaids, Marriage, and more
 layout: page
 nav_order: 6
 ---

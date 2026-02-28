@@ -1,5 +1,6 @@
 ---
 title: Permissions
+description: Marriage Mod - Permissions
 parent: Marriage
 layout: page
 nav_order: 2

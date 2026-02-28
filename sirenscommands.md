@@ -1,5 +1,6 @@
 ---
 title: Siren's Commands
+description: Docs for the Hytale Siren's Commands Mod
 layout: page
 nav_order: 5
 ---

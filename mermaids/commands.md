@@ -1,5 +1,6 @@
 ---
 title: Commands
+description: Mermaids Mod - Commands
 parent: Mermaids
 layout: page
 nav_order: 1

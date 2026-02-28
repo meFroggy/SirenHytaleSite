@@ -1,5 +1,6 @@
 ---
 title: Chinese Festivals
+description: Docs for the Hytale Chinese Festivals Mod
 layout: page
 nav_order: 4
 ---
