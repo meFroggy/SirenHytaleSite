@@ -1,5 +1,6 @@
 ---
 title: Config
+description: Marriage Mod - Config
 parent: Marriage
 layout: page
 nav_order: 3

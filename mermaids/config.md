@@ -1,5 +1,6 @@
 ---
 title: Config
+description: Mermaids Mod - Config
 parent: Mermaids
 layout: page
 nav_order: 3

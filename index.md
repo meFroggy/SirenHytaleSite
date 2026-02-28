@@ -1,5 +1,6 @@
 ---
 title: Home
+description: Official website of Siren's Hytale mods--Mermaids, Marriage, and more
 layout: home
 nav_order: 1
 ---

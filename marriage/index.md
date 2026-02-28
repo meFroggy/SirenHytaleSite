@@ -1,5 +1,6 @@
 ---
 title: Marriage
+description: Docs for the Hytale Marriage Mod
 layout: page
 nav_order: 3
 ---

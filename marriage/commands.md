@@ -1,5 +1,6 @@
 ---
 title: Commands
+description: Marriage Mod - Commands
 parent: Marriage
 layout: page
 nav_order: 1

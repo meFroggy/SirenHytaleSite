@@ -1,5 +1,6 @@
 ---
 title: Gallery
+description: Chinese Festivals Mod - Gallery
 parent: Chinese Festivals
 layout: page
 nav_order: 1

@@ -1,5 +1,6 @@
 ---
 title: Gallery
+description: Mermaids Mod - Gallery
 parent: Mermaids
 layout: page
 nav_order: 4
