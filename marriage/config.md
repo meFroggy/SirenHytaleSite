@@ -4,24 +4,15 @@ parent: Marriage
 layout: page
 ---
 
-Config:
+Last updated for v1.2.0, which at the time of writing this, that version hasn't released yet. Look at Curseforge page for now.
 
-This is the default config values and descriptions for config version 1
-
-- "Config-Information"
-  - Default Value: "Confused about what one of these statement do? Check out the Marriage page on the Curseforge website and scroll down to Config Extra Info."
-- "ConfigVersion"
-  - Default Value: 1
-  - Description: Config Version when you first load the plugin.
-- "PluginName"
-  - Default Value: "Marriage"
-  - Description: Plugin name.
-- "Version"
-  - Default Value: "1.1.0"
-  - Description: Plugin Verison when you first load the plugin.
-- "Website"
-  - Default Value: "https://www.curseforge.com/hytale/mods/marriage"
-  - Description: A link to the plugin's download page and informatiton.
-- "Use-Permissions-For-Commands"
-  - Default Value: false
-  - Description: For majority of the Marry commands, the player will require permission to run the commands.
+| Config Name: | Default Value: | Description: |
+|:---|:---|:---|
+| "Config-Information" | "Confused about what one of these statement do? Check out the Marriage page on the Curseforge website or https://mermaids.dev/marriage/config.html and scroll down to Config Extra Info." | Information about how to find stuff related to the config |
+| "ConfigVersion" | 2 | Current Version when you have loaded for the plugin. |
+| "PluginName" | "Marriage" | Plugin name. |
+| "Version" | "1.2.0" | Version of the last ran mod jar. |
+| "Website" | "https://mermaids.dev/marriage/" | Official website for this mod. |
+| "Download-Site" | "https://www.curseforge.com/hytale/mods/marriage" | Website to download this mod, check for updates, and information. |
+| "Require-Ring-To-Marry" | false | Require players to hold a ring in there hand when using the /marry player command. |
+| "Use-Permissions-For-Commands" | false | For majority of the Marry commands, the player will require permission to run the commands. |
