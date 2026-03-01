@@ -2,7 +2,7 @@
 title: Siren's Commands
 description: Docs for the Hytale Siren's Commands Mod
 layout: page
-nav_order: 5
+nav_order: 6
 ---
 
 ### Welcome to the Official [Siren's Commands](https://www.curseforge.com/hytale/mods/sirenscommands) Mod Wiki!

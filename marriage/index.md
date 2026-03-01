@@ -2,7 +2,7 @@
 title: Marriage
 description: Docs for the Hytale Marriage Mod
 layout: page
-nav_order: 3
+nav_order: 4
 ---
 
 ### Welcome to the Official [Marriage](https://www.curseforge.com/hytale/mods/marriage) Mod Wiki!
