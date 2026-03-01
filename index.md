@@ -12,6 +12,7 @@ nav_order: 1
 
 - [Mermaids]
   - [Mermaids Docs]
+  - [Mermaids API Docs]
 - [Marriage]
   - [Marriage Docs]
 - [Chinese Festivals]
@@ -25,9 +26,10 @@ nav_order: 1
  
 [Mermaids]: https://www.curseforge.com/hytale/mods/mermaids
 [Mermaids Docs]: /mermaids/
+[Mermaids API Docs]: /api/
 [Marriage]: https://www.curseforge.com/hytale/mods/marriage
 [Marriage Docs]: /marriage/
 [Siren's Commands]: https://www.curseforge.com/hytale/mods/sirenscommands
-[Siren's Commands Docs]: /sirenscommands.html
+[Siren's Commands Docs]: /sirens-commands/
 [Chinese Festivals]: https://www.curseforge.com/hytale/mods/chinesefestivals
-[Chinese Festivals Docs]: /chinesefestivals.html
+[Chinese Festivals Docs]: /chinese-festivals/
