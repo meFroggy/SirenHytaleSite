@@ -2,6 +2,7 @@
 title: Mermaids
 description: Docs for the Hytale Mermaids Mod
 layout: page
+permalink: /mermaids/
 nav_order: 2
 ---
 

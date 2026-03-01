@@ -3,13 +3,15 @@ title: Custom Model Texture
 description: Mermaids API - Custom Model Texturing Docs
 parent: Mermaids API
 layout: page
+permalink: /api/custom-texture/
 nav_order: 1
 ---
 
-| Color Key | Description |
-|:---|:---|
-| <span style="color: rgb(127, 0, 0);">#Maroon</span> | Left side of the Mermaid Tail. |
-| <span style="color: rgb(255, 0, 0);">#Red</span> | Front of the Mermaid Tail. |
+| Color Key                                                    | Description |
+|:-------------------------------------------------------------|:---|
+| <br><span style="color: rgb(127, 0, 0);">#Maroon</span></br> | Left side of the Mermaid Tail. |
+| <br><span style="color: rgb(255, 0, 0);">#Red</span></br>    | Front of the Mermaid Tail. |
+
 | <span style="color: rgb(170, 0, 0);">#Dark Red</span> | Right side of the Mermaid Tail. |
 | <span style="color: rgb(255, 58, 58);">#Light Red</span> | Back of the Mermaid Tail. |
 | <span style="color: rgb(127, 0, 55);">#Dark Pink</span> | Top parts of the Mermaid Tail : Shown when rotated. |

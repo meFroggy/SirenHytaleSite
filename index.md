@@ -2,6 +2,7 @@
 title: Home
 description: Official Docs of Siren's Hytale mods--Mermaids, Marriage, and more
 layout: home
+permalink: /
 nav_order: 1
 ---
 

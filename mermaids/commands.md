@@ -3,6 +3,7 @@ title: Commands
 description: Mermaids Mod - Commands
 parent: Mermaids
 layout: page
+permalink: /mermaids/commands/
 nav_order: 1
 ---
 

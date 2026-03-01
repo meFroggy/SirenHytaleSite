@@ -2,6 +2,7 @@
 title: Mermaids API
 description: API Docs for the Mermaids Mod
 layout: page
+permalink: /api/
 nav_order: 3
 ---
 

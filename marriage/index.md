@@ -2,6 +2,7 @@
 title: Marriage
 description: Docs for the Hytale Marriage Mod
 layout: page
+permalink: /marriage/
 nav_order: 4
 ---
 

@@ -2,6 +2,7 @@
 title: Siren's Commands
 description: Docs for the Hytale Siren's Commands Mod
 layout: page
+permalink: /sirenscommands/
 nav_order: 6
 ---
 

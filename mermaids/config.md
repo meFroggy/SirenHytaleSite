@@ -3,6 +3,7 @@ title: Config
 description: Mermaids Mod - Config
 parent: Mermaids
 layout: page
+permalink: /mermaids/config/
 nav_order: 3
 ---
 

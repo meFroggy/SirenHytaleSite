@@ -3,6 +3,7 @@ title: Commands
 description: Marriage Mod - Commands
 parent: Marriage
 layout: page
+permalink: /marriage/commands/
 nav_order: 1
 ---
 

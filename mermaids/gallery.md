@@ -3,6 +3,7 @@ title: Gallery
 description: Mermaids Mod - Gallery
 parent: Mermaids
 layout: page
+permalink: /mermaids/gallery/
 nav_order: 4
 ---
 

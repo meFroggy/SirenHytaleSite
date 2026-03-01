@@ -3,6 +3,7 @@ title: Config
 description: Marriage Mod - Config
 parent: Marriage
 layout: page
+permalink: /marriage/config/
 nav_order: 3
 ---
 
