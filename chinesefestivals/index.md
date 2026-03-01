@@ -2,7 +2,7 @@
 title: Chinese Festivals
 description: Docs for the Hytale Chinese Festivals Mod
 layout: page
-permalink: /chinesefestivals/
+permalink: /chinese-festivals/
 nav_order: 5
 ---
 

@@ -3,7 +3,7 @@ title: Gallery
 description: Chinese Festivals Mod - Gallery
 parent: Chinese Festivals
 layout: page
-permalink: /chinesefestivals/gallery/
+permalink: /chinese-festivals/gallery/
 nav_order: 1
 ---
 
