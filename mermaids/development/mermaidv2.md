@@ -55,7 +55,7 @@ nav_order: 1
 - [ ] FluidWalkBackward
 - [X] FluidRun
 - [ ] FluidRunBackward
-- [ ] FluidSprint
+- [X] FluidSprint
 - [ ] ClimbIdle
 - [ ] ClimbUp
 - [ ] ClimbDown
