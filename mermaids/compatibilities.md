@@ -13,3 +13,5 @@ nav_order: 6
   - Being a Mermaid fills the thirst bar to max.
 - [[xnrdev] DivingTale](https://www.curseforge.com/hytale/mods/diving-equipment) By: [xnrdev](https://www.curseforge.com/members/xnrdev/projects) (Next Alpha Release [v2.0.0-2026.03.06] and v1.3.12)
   - All 6 harpoons will give increased movement speeds underwater.
+- [Placeholder API](https://www.curseforge.com/hytale/mods/placeholder-api) By: [funnycube](https://www.curseforge.com/members/funnycube/projects) (Next Alpha Release [v2.0.0-2026.03.06] and v1.3.12)
+  - Adds a couple [placeholders](/mermaids/compatibilities/placeholderapi/).
