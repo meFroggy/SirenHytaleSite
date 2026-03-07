@@ -1,3 +1,6 @@
+## Official Github for the [mermaids.dev](https://mermaids.dev/) website.
+No need to modify anything below because I sometimes use those links and the people who would see it can know I used that template and now I'm just typing this right here. :)
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:

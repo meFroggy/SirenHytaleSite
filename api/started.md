@@ -49,4 +49,4 @@ Required Dependency `manifest.json`:
 <br/>
 
 #### Official project that used Mermaids as a Dependency:
-Check out the [source code](https://github.com/meFroggy/OrbisOrigins-X-Mermaids-Hytale-Plugin) for [Orbis Origins X Mermaids](/mermaids/compatibilities/orbis-origins/)!
+Check out the [source code](https://github.com/meFroggy/OrbisOrigins-X-Mermaids-Hytale-Plugin) for [Orbis Origins X Mermaids](/mermaids/compatibilities/orbis-origins/) mod!

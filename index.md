@@ -19,6 +19,8 @@ nav_order: 1
   - [Chinese Festivals Docs]
 - [Siren's Commands]
   - [Siren's Commands Docs]
+- [Orbis Origins X Mermaids]
+  - [Orbis Origins X Mermaids Docs]
 
 
 <span style="color: #c2e0f4;"><img src="https://api.hstats.dev/api/embed/8aab16df-13b6-429e-9568-9b80effacdc8/card.svg?theme=dark&amp;layout=history&amp;size=lg&amp;show_id=true&amp;dark=false" alt="HStats Mermaids Mod with History Img" width="920" height="340"></span>
@@ -34,3 +36,5 @@ nav_order: 1
 [Siren's Commands Docs]: /sirens-commands/
 [Chinese Festivals]: https://www.curseforge.com/hytale/mods/chinesefestivals
 [Chinese Festivals Docs]: /chinese-festivals/
+[Orbis Origins X Mermaids]: https://www.curseforge.com/hytale/mods/orbis-origins-mermaids
+[Orbis Origins X Mermaids Docs]: /mermaids/compatibilities/orbis-origins/
