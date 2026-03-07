@@ -4,7 +4,7 @@ description: Mermaids Mod - Mermaids PlaceholderAPI Expansion
 parent: Mod Compatibilities
 layout: page
 permalink: /mermaids/compatibilities/placeholderapi/
-nav_order: 1
+nav_order: 2
 ---
 
 | Placeholder:          | Description:                                                              |

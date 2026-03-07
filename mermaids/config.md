@@ -4,7 +4,7 @@ description: Mermaids Mod - Config
 parent: Mermaids
 layout: page
 permalink: /mermaids/config/
-nav_order: 3
+nav_order: 2
 ---
 
 This is the default config values and descriptions for config version 7.

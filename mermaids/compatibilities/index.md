@@ -15,3 +15,6 @@ nav_order: 6
   - All 6 harpoons will give increased movement speeds underwater.
 - [Placeholder API](https://www.curseforge.com/hytale/mods/placeholder-api) By: [funnycube](https://www.curseforge.com/members/funnycube/projects) (Next Alpha Release [v2.0.0-2026.03.06] and v1.3.12)
   - Adds a couple [placeholders](/mermaids/compatibilities/placeholderapi/).
+- [Orbis Origins](https://www.curseforge.com/hytale/mods/orbis-origins) By: [Hexvane](https://www.curseforge.com/members/hexvane/projects)
+  - Requires downloading the [Orbis Origins X Mermaids](https://www.curseforge.com/hytale/mods/orbis-origins-mermaids) Mod -- Coming soon!
+  - About the [Orbis Origins X Mermaids](/mermaids/compatibilities/orbis-origins/) Mod.

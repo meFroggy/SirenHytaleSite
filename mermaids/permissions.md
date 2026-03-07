@@ -4,7 +4,7 @@ description: Mermaids Mod - Permissions
 parent: Mermaids
 layout: page
 permalink: /mermaids/permissions
-nav_order: 2
+nav_order: 3
 ---
 
 | Permission: | Description: |

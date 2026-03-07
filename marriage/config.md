@@ -4,7 +4,7 @@ description: Marriage Mod - Config
 parent: Marriage
 layout: page
 permalink: /marriage/config/
-nav_order: 3
+nav_order: 2
 ---
 
 Last updated for Config Version 2 and Marriage v1.2.0.
