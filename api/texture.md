@@ -4,7 +4,7 @@ description: Mermaids API - Custom Model Texturing Docs
 parent: Mermaids API
 layout: page
 permalink: /api/custom-texture/
-nav_order: 3
+nav_order: 4
 ---
 
 Orange tail model with color key (Color key is not attached to model texture):

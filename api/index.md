@@ -10,6 +10,8 @@ nav_order: 3
 
 API added with Mermaids v1.4.0.
 
-The API is still in development; however, making your own custom Mermaid [model texture](/api/custom-texture/) in available. 
+To get started check out [Getting Started](/api/getting-started/).
+
+The API is still in development; but if you want to makie your own custom Mermaid [model texture](/api/custom-texture/), it is available to do. 
 
 { IN DEVELOPMENT }

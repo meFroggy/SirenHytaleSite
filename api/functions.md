@@ -4,7 +4,7 @@ description: Mermaids API - Functions
 parent: Mermaids API
 layout: page
 permalink: /api/functions/
-nav_order: 1
+nav_order: 2
 ---
 
 | Function:                                                                                                        | Return: | Description:                                                                      |

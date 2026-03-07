@@ -4,7 +4,7 @@ description: Alpha Roadmap for the Hytale Mermaids Mod
 parent: Mermaids
 layout: page
 permalink: /mermaids/alpha/
-nav_order: 3
+nav_order: 4
 ---
 
 ### Welcome to the Official [Mermaids](https://www.curseforge.com/hytale/mods/mermaids) Alpha news!

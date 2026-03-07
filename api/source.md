@@ -4,7 +4,7 @@ description: Mermaids API - Source Code
 parent: Mermaids API
 layout: page
 permalink: /api/source-code/
-nav_order: 2
+nav_order: 3
 ---
 
 ```java
