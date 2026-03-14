@@ -34,7 +34,3 @@ Mermaid sitting on a bench in rain. (Sitting animation will be on Tail model v2)
 Mermaid farming by using fishing traps:
 ![Fresh_Mermaid_Farm_Img](/assets/images/gallery/mermaids/fresh_mermaids3.png "Mermaid Farm Fresh Img")
 A mermaid farming by using fishing traps. Credits: fresh
-
-![Mermaid swimming underwater and Tail color Change | Hytale Mermaids v1.2.4
-](https://www.youtube.com/watch?v=SBG9TTS_y8k&pp=ygUPbWVybWFpZHMgaHl0YWxl)
-a
