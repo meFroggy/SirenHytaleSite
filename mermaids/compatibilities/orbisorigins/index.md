@@ -15,7 +15,7 @@ Requires the [Orbis Origins] and [Mermaids] mod!
 
 Orbis Origins X Mermaids [source code](https://github.com/meFroggy/OrbisOrigins-X-Mermaids-Hytale-Plugin).
 
-<span style="color: #c2e0f4;"><img src="https://api.hstats.dev/api/embed/a5d03352-3549-473f-81e7-bc0f3192d40c/card.svg?theme=dark&amp;layout=history&amp;size=lg&amp;show_id=true&amp;dark=false" alt="HStats Mermaids Mod with History Img" width="920" height="340"></span>
+<span style="color: #c2e0f4;"><img src="https://api.hstats.dev/api/embed/769d87c4-8635-4e9e-8e12-70cb42877593/card.svg?theme=dark&amp;layout=history&amp;size=lg&amp;show_id=true&amp;dark=false" alt="HStats Mermaids Mod with History Img" width="920" height="340"></span>
 
 { IN DEVELOPMENT }
 
